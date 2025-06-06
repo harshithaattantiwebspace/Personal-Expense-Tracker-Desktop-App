@@ -1,8 +1,3 @@
-**Repository Description**
-Personal Expense Tracker: A Windows desktop application built with Python, Tkinter, and SQLite to record, visualize, and report daily expenses—handling 10,000+ records with sub-50 ms queries and fast CSV import/export.
-
----
-
 # Personal Expense Tracker
 
 A lightweight Windows GUI application for recording, viewing, and analyzing daily expenses. Built with Python’s Tkinter for a responsive interface and SQLite for a robust, embedded database backend. This tool supports over 10,000 stored records, sub-50 ms query performance, and CSV import/export of up to 5,000 transactions in under 3 seconds.
